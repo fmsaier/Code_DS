@@ -1,0 +1,6 @@
+﻿  BinaryTree.c
+  Queue.c
+D:\Code_C\c-language-learning\DataStruct\BinaryTree\BinaryTree\Queue.c(69,10): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“QDataType”
+D:\Code_C\c-language-learning\DataStruct\BinaryTree\BinaryTree\Queue.c(69,10): warning C4313: "printf": 格式字符串中的 "%d" 与类型为 "QDataType" 的参数 1 冲突
+  正在生成代码...
+  BinaryTree.vcxproj -> D:\Code_C\c-language-learning\DataStruct\BinaryTree\x64\Debug\BinaryTree.exe

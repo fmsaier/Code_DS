@@ -1,0 +1,17 @@
+﻿  Stack.c
+  test.c
+D:\Code_C\c-language-learning\DataStruct\Stack\Stack\test.c(31,18): warning C4013: “strlen”未定义；假设外部返回 int
+D:\Code_C\c-language-learning\DataStruct\Stack\Stack\test.c(33,19): warning C4047: “==”:“int”与“char [2]”的间接级别不同
+D:\Code_C\c-language-learning\DataStruct\Stack\Stack\test.c(33,34): warning C4047: “==”:“int”与“char [2]”的间接级别不同
+D:\Code_C\c-language-learning\DataStruct\Stack\Stack\test.c(33,48): warning C4047: “==”:“int”与“char [2]”的间接级别不同
+D:\Code_C\c-language-learning\DataStruct\Stack\Stack\test.c(37,24): warning C4047: “==”:“int”与“char [2]”的间接级别不同
+D:\Code_C\c-language-learning\DataStruct\Stack\Stack\test.c(37,39): warning C4047: “==”:“int”与“char [2]”的间接级别不同
+D:\Code_C\c-language-learning\DataStruct\Stack\Stack\test.c(37,53): warning C4047: “==”:“int”与“char [2]”的间接级别不同
+D:\Code_C\c-language-learning\DataStruct\Stack\Stack\test.c(43,20): warning C4047: “==”:“int”与“char [2]”的间接级别不同
+D:\Code_C\c-language-learning\DataStruct\Stack\Stack\test.c(43,34): warning C4047: “!=”:“int”与“char [2]”的间接级别不同
+D:\Code_C\c-language-learning\DataStruct\Stack\Stack\test.c(44,20): warning C4047: “==”:“int”与“char [2]”的间接级别不同
+D:\Code_C\c-language-learning\DataStruct\Stack\Stack\test.c(44,34): warning C4047: “!=”:“int”与“char [2]”的间接级别不同
+D:\Code_C\c-language-learning\DataStruct\Stack\Stack\test.c(45,20): warning C4047: “==”:“int”与“char [2]”的间接级别不同
+D:\Code_C\c-language-learning\DataStruct\Stack\Stack\test.c(45,34): warning C4047: “!=”:“int”与“char [2]”的间接级别不同
+  正在生成代码...
+  Stack.vcxproj -> D:\Code_C\c-language-learning\DataStruct\Stack\x64\Debug\Stack.exe
